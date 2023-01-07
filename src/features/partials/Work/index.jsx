@@ -8,7 +8,6 @@ import './Work.css'
 const Work = () => {
   const dispatch = useDispatch();
   const vots = useSelector( voteSkill )
-  console.log(vots)
 
   return (
     <div className='work-section'>

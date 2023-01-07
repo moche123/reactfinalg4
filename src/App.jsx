@@ -8,7 +8,10 @@ import PortFolio from './features/portfolio';
 
 function App() {
   return (
+    
     <div className="App">
+      <h2>title of project</h2>
+      <p>learn something</p>
       <PortFolio />
     </div>
   );
